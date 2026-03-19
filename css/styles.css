@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "libreBaskerville";
+    src: url("/fuentes/LibreBaskerville-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "libreBaskerville";
+    src: url("/fuentes/LibreBaskerville-Italic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "libreBaskerville";
+    src: url("/fuentes/LibreBaskerville-Regular.ttf") format("truetype");
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "LibreBaskerville";
+    font-weight: 400;
+}
+
+h1 {
+    font-family: "LibreBaskerville";
+    font-weight: 400;
+    color: rgb(255, 0, 0);
+}
+
+h2 {
+    font-family: "LibreBaskerville";
+    font-weight: 400;
+    color: rgba(0, 0, 0, 0.798);
+}
+
+p {
+    font-family: "LibreBaskerville";
+    font-weight: 400;
+    color: rgb(8, 0, 255);
+}
+
+.mi-encabezado {
+    font-size: 30px;
+}
+
+.seccion {
+    background-color: rgb(255, 255, 255);
+    font-family: "LibreBaskerville";
+    font-weight: 100;
+}

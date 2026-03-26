@@ -15,24 +15,24 @@
 
 body {
     background-color: rgb(255, 255, 255);
-    font-family: "LibreBaskerville";
+    font-family: "libreBaskerville";
     font-weight: 400;
 }
 
 h1 {
-    font-family: "LibreBaskerville";
+    font-family: "libreBaskerville";
     font-weight: 400;
     color: rgb(255, 0, 0);
 }
 
 h2 {
-    font-family: "LibreBaskerville";
+    font-family: "libreBaskerville";
     font-weight: 400;
     color: rgba(0, 0, 0, 0.798);
 }
 
 p {
-    font-family: "LibreBaskerville";
+    font-family: "libreBaskerville";
     font-weight: 400;
     color: rgb(8, 0, 255);
 }
@@ -43,6 +43,6 @@ p {
 
 .seccion {
     background-color: rgb(255, 255, 255);
-    font-family: "LibreBaskerville";
+    font-family: "libreBaskerville";
     font-weight: 100;
 }

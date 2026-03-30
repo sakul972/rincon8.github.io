@@ -1,20 +1,23 @@
-@font-face {
-    font-family: "libreBaskerville-Bold";
-    src: url("/fuentes/LibreBaskerville-Bold.ttf") format("truetype");
+h2,
+h1 {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
 }
- 
-@font-face {
-    font-family: "libreBaskerville-Italic";
-    src: url("/fuentes/LibreBaskerville-Italic.ttf") format("truetype");
+
+.footer-top {
+    display: flex;
+    gap: 350px;
+    align-items: center;
+    padding: 20px 40px;
 }
- 
-@font-face {
-    font-family: "libreBaskerville-Regular";
-    src: url("/fuentes/LibreBaskerville-Regular.ttf") format("truetype");
+
+.social {
+    display: flex;
+    gap: 8px;
 }
- 
-body {
-    font-family: "libreBaskerville-Regular";
-    background-color: white;
-    color: black;
+
+.copy {
+    font-size: 12px;
+    color: #555;
 }

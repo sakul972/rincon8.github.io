@@ -52,6 +52,11 @@ h1 {
     color: red;
 }
 
+.mi encabezado {
+    position: sticky;
+    top: 0;
+}
+
 /* AGREGANDO ESTILOS A LOS PRODUCTOS  */
 
 .seccion {
